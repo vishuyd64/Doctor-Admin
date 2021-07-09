@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.821" height="25.292" viewBox="0 0 19.821 25.292">
+  <g id="document_2_" data-name="document (2)" transform="translate(-59.167 1.177)">
+    <path id="Path_1" data-name="Path 1" d="M356.625,4.952h4.412L356.625.563Z" transform="translate(-283.261 -0.537)" fill="#9d9d9d" stroke="#707070" stroke-width="1"/>
+    <path id="Path_2" data-name="Path 2" d="M71.98,5.8V0H59.667V23.616H77.779V5.8ZM63.635,15.851V14.468H73.81v1.384Zm7.535,2.26V19.5H66.275V18.112Zm2.64-7.288v1.384H63.635V10.824ZM63.635,8.564V7.18h5.087V8.564Z" transform="translate(0)" fill="#9d9d9d" stroke="#707070" stroke-width="1"/>
+    <g id="Rectangle_5" data-name="Rectangle 5" transform="translate(63.295 7.308)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="5" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" fill="none"/>
+    </g>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="13" height="16" transform="translate(62.295 6.308)" fill="#9d9d9d"/>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(63.295 10.308)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="11" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="10" fill="none"/>
+    </g>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(63.295 12.308)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="11" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="10" fill="none"/>
+    </g>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(63.295 15.308)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="11" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="10" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(63.295 17.308)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="11" height="1" stroke="none"/>
+      <rect x="0.5" y="0.5" width="10" fill="none"/>
+    </g>
+    <g id="Path_3" data-name="Path 3" transform="translate(63.295 13.308)" fill="#fff">
+      <path d="M11,2h0Z" stroke="none"/>
+      <path d="M 0 2 L 11 2 L 0 2 Z" stroke="none" fill="#707070"/>
+    </g>
+  </g>
+</svg>
